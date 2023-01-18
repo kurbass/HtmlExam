@@ -1,0 +1,14 @@
+:root{
+    --defaultPadding: 20px;
+    --defaultMargin: 20px;
+    --widthOfImages: 200px;
+}
+
+.navBrand{
+    width: 70px;
+    transition: 1s linear;
+}
+
+.navBrand:hover{
+    transform: rotate(360deg);
+}
